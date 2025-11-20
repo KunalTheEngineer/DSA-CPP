@@ -3,7 +3,7 @@
 
 int main()
 {
-  
+    // TAKE INPUT FROM THE INPUT.TXT FILE
     int n;
     cin>>n;
     for(int i=0; i<n; i++)
